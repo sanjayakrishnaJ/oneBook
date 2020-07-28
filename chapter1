@@ -2,7 +2,12 @@ MATHS
 
 Math is a fundamental language which is used to understand science. 
 
-To the core, maths may have been developed as a counting tool, to represent "how many" of a particular object is available. The maths of counting may seem simple, but as we develop on the subject, we understand there are different bases (radix). Again, most commonly accepted counting system - Hindu-Arabic Number System consists of 1-9 along with 0. The addition of 0 represents that there is nothing present, which may seem obvious now, but it was a significant addition. Addition of the concept of negative integers to the available Hindu-Arabic Number System is what we now use, called as Decimal number system (radix 10). And number by itself does not contain any meaning unless it is combined with an object or a context (number of units of that object or simply units, and to simplify, unit means one, therefore number of units implies total number of individual items of an object)
+To the core, maths may have been developed as a counting tool, to represent "how many" of a particular object is available. The maths of counting may seem 
+simple, but as we develop on the subject, we understand there are different bases (radix). Again, most commonly accepted counting system - Hindu-Arabic Number 
+System consists of 1-9 along with 0. The addition of 0 represents that there is nothing present, which may seem obvious now, but it was a significant addition. 
+Addition of the concept of negative integers to the available Hindu-Arabic Number System is what we now use, called as Decimal number system (radix 10). And 
+number by itself does not contain any meaning unless it is combined with an object or a context (number of units of that object or simply units, and to simplify, 
+unit means one, therefore number of units implies total number of individual items of an object)
 
 one (meaningless) vs one apple (object)
 three (meaningless) vs three cars (object)
@@ -17,10 +22,12 @@ here we need to understand that a set of 'dots' does not make 'one', and here is
 adding 1s we get higher numbers, and operations on 1 / higher numbers may produce 'higher dimension'
 but a 'dot' or a 0 is nothing, you cannot build on it, you cannot produce 'higher dimension' from it. 
 
-so, in essence everything starts from 1 / a single unit of an object (now you may understand why the non-zero counting systems made more sense for people before introduction of Hindu-Arabic number system)
+so, in essence everything starts from 1 / a single unit of an object (now you may understand why the non-zero counting systems made more sense for people before 
+introduction of Hindu-Arabic number system)
 
 So let us start from 1 ; again, visual perception we represent it by a | (line);
-(do not confuse mathematical definition of lines as a set of points, that is geometrical definition and makes sense there, but by our definition, a 'dot' does not have a value, and so does a set of 'dots' placed side-by-side)
+(do not confuse mathematical definition of lines as a set of points, that is geometrical definition and makes sense there, but by our definition, a 'dot' does 
+not have a value, and so does a set of 'dots' placed side-by-side)
 
 | in mathematical terms, has a unit magnitude, single direction. (we may use | _ \ / all of these to represent a line of unit length, for visual purposes) 
 
